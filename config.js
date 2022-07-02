@@ -41,32 +41,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['212705570169'] //ur owner number
-global.ownername = "Amin🙂"
-global.ytname = "YT:😏" //ur yt chanel name
+global.owner = ['+212674874107'] //ur owner number
+global.ownername = "yassine 🧑‍🦯"
+global.ytname = "YT: yassine A6" //ur yt chanel name
 global.socialm = "GitHub: ???" //ur github or insta name
-global.location = "Morocco, tetouan" //ur location
+global.location = "Morocco, Agadir" //ur location
 
 //bot bombdy
-global.botname = "NAMX-BOT" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "ZENX1-bot" //ur bot name
+global.websitex = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "Z E N X 1 🧑‍🦯"
+global.author = "yassine 🧑‍🦯"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.ownertag = ['+212674874107'] //ur owner tag
+global.ownernummenu = ['+212674874107'] //ur owner number in menu and all
+global.watermark = "Zenx1 Bot Inc." //ur watermark
 global.botscript = "https://github.com"
-global.linkz1 = "https://chat.whatsapp.com"
-global.linkz2 = "https://chat.whatsapp.com"
+global.linkz1 = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3"
+global.linkz2 = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.thum = fs.readFileSync("2a4509fc8b38573f8c38dfe967cd3533.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("2a4509fc8b38573f8c38dfe967cd3533.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("2a4509fc8b38573f8c38dfe967cd3533.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
@@ -92,7 +92,7 @@ global.ntilink = []
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','dir','🗿']
 global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
